@@ -1,0 +1,23 @@
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+tqdm
+scipy
+torchmetrics
+deep-sort-realtime
+ 
+# ReID Embeddings (OSNet)
+# Install from source:
+# pip install git+https://github.com/KaiyangZhou/deep-person-reid.git
+torchreid
+ 
+# Evaluation
+# Install from source:
+# pip install git+https://github.com/JonathonLuiten/TrackEval.git
+trackeval
+ 
+# Experiment Logging
+wandb
